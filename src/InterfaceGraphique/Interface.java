@@ -1,5 +1,4 @@
 package InterfaceGraphique;
-
 import Jeu.Morpion.Morpion;
 import java.awt.*;
 import javax.swing.JFrame;
