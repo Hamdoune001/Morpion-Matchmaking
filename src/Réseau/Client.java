@@ -1,4 +1,4 @@
-package Reseau;
+package Réseau;
 
 import java.io.*;
 import java.net.*;
